@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+original_data/*.txt
+original_data/*.csv
