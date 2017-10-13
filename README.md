@@ -11,3 +11,8 @@
 ナイル川の流量データを[statsmodels](https://github.com/statsmodels/statsmodels/blob/master/statsmodels/datasets/nile/nile.csv)からコピーしoriginal_data配下に置く。
 カルマンフィルタの流れと、ライブラリの中で行われている未知数決定の方法を理解する。
 
+## 準備
+[原著者のサイト](http://www.ssfpack.com/CKbook.html)からUKdriversKSI.txtをダウンロードし、original_data配下に置く。
+
+## 1章
+英国ドライバーの死傷者数を対数変換しプロットする。
